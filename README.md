@@ -1,2 +1,2 @@
 # Dashboard_Relatorio_Vendas_Produtos_Eletronicos
-Projeto de ETL + Desenvolvimento de um Dashboard com dados visuais de vendas de produtos eletrônicos.
+Projeto de ETL + Dashboard com dados de vendas de produtos eletrônicos.
